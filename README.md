@@ -3,7 +3,7 @@
 An interactive web application that allows users to set and manage multiple timers simultaneously. Built using HTML, CSS, and JavaScript.
 
 ## Demo
-Check out the live demo [here]([Your_Deployed_Page_Link](https://sidd444.github.io/Multiple-Alarm-Timer/)).
+Check out the live demo [here]([https://sidd444.github.io/Multiple-Alarm-Timer/]).
 
 ## Features
 
