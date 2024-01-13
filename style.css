@@ -118,7 +118,7 @@ label {
 }
 
 
-@media only screen and (max-width:491px){
+@media only screen and (max-width:491px){ 
    .timer{
     width: 100%;
     display: flex;

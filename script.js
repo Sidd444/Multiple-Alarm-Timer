@@ -11,7 +11,7 @@ function noTimerCheck(){
         // No timer present , display You have no timers present currently
         const noTimerMsg = document.createElement("p");
         noTimerMsg.textContent = "You have no timers currently!";
-        document.querySelector(".noTimer").appendChild(noTimerMsg);
+        document.querySelector(".noTimer").appendChild(noTimerMsg); 
     }
     else {
         document.querySelector(".noTimer").innerHTML = "";
